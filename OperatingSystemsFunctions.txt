@@ -6,3 +6,8 @@ An Operating System is a program that lets you interact with your computer.
 There are several Operating Systems that are widely used such as Windows OS, Apple iOS, Google’s Android OS, Apple macOS and Linux Operating System.
 Whenever you turn on your computer or tablet or  your phone, you may observe that your devices take time to load a home green. 
 It means that the Operating System in the background is running to help you to control your computer or other devices and it also allows other applications to run on top of it.
+If computer users want to use an application such as word processors.
+He has to tell the computer hardware that he wants to open the word processor, to write documents, or to save a  file and so on. 
+There would be complicated work and many steps for him to tell computer hardware to perform the tasks.
+However, with the Operating System, he does not have to do such tedious work because Operating System work as intermidiate between computer users and computer hardware.
+Together the Operating System and hardware form a complete system that determines what your computer can do.
