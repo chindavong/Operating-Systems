@@ -1,0 +1,4 @@
+An Operating System is a vital software that is built into a computer. 
+Every computing device has an Operating System. 
+An Operating System communicates with computer hardware, and manages tasks for computer hardware to perform. 
+Also,the Operating System allows programs to run in computers.
